@@ -1,4 +1,4 @@
-package Учащиеся;
+package University;
 
 public class Student extends People{
 	public Student(String name, String surname, int age, Address address) {

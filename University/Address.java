@@ -1,4 +1,4 @@
-package Учащиеся;
+package University;
 
 public class Address {
 	private String city;

@@ -3,10 +3,10 @@ import java.util.Arrays;
 
 
 
-import Учащиеся.Address;
-import Учащиеся.Group;
-import Учащиеся.Student;
-import Учащиеся.Teacher;
+import University.Address;
+import University.Group;
+import University.Student;
+import University.Teacher;
 
 public class Main {
 

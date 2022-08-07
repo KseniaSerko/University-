@@ -1,4 +1,4 @@
-package Учащиеся;
+package University;
 
 public class Teacher extends People{
 	private double hourSalary;
